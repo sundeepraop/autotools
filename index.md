@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=6sWec7b0JIc
 
 ##
 https://www.youtube.com/watch?v=bsXLMQ6WgIk
+
+## Using the Eclipse Debugger Norm Krumpe Norm Krumpe 
+https://www.youtube.com/watch?v=9gAjIQc4bPU
